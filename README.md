@@ -11,6 +11,6 @@ Une intelligence artificielle capable de jouer au Tetris toute seule, fonctionna
 
 ## Installation
 
-- Installer une version de python supérieure ou égale à 3.7
+- Installer une version de [python](https://www.python.org/) supérieure ou égale à 3.7
 - Installer pygame (éxécuter la commande `pip install pygame`)
 - Téléchagrer le code et lancer le fichier main.py
