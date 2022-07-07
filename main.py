@@ -5,7 +5,7 @@ import sys
 import ai
 
 
-GAME_ID = randint(0, 99999)  # on genere un id aléatoire pour differencier les differentes parties
+GAME_ID = randint(0, 99999)  # on genere un id aléatoire pour differencier les parties
 GAME_START = time()  # timestamp du début de la partie, pour ajuster la vitesse de la gravité
 SAVE_RESULTS = False  # sauvegarder les resultats de chaque génération dans un fichier texte
 AI_MODE = True  # true pour faire jouer les ia, false pour jouer soi-même
