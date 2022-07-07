@@ -9,8 +9,13 @@ Une intelligence artificielle capable de jouer au Tetris toute seule, fonctionna
 
 À la première génération, les IA sont plutôt mauvaise, mais l'algorithme génétique leurs permet d'optimiser leurs paramètres, et de sélectionner les meilleurs individus à chaque génération pour se reproduire.
 
+## Performances
+
+![image](https://user-images.githubusercontent.com/70845195/177747996-590c1c2f-5bb2-4426-9e77-a75c64c8cf8b.png)
+
 ## Installation
 
 - Installer une version de [python](https://www.python.org/) supérieure ou égale à 3.7
 - Installer pygame (éxécuter la commande `pip install pygame`)
-- Téléchagrer le code et lancer le fichier main.py
+- Télécharger le code et lancer le fichier main.py
+
